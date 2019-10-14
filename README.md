@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/dhanrajmittal0524/Parts%20Unlimited/_apis/build/status/Dhanraj90.calculator?branchName=master)](https://dev.azure.com/dhanrajmittal0524/Parts%20Unlimited/_build/latest?definitionId=2&branchName=master)
